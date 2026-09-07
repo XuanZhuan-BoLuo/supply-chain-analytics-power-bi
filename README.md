@@ -4,7 +4,7 @@ An end-to-end Power BI project analyzing demand concentration, inventory alignme
 
 ## Dashboard
 
-**Live Power BI Report:** [View interactive dashboard](YOUR_POWER_BI_LINK)
+**Live Power BI Report:** [View interactive dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjc5MzI0YjEtMjA2Yy00NWQxLTg4MWYtNjFkOGRhYTNmNmVmIiwidCI6IjZjMWQ0MTUyLTM5ZDAtNDRjYS04OGQ5LWI4ZDZkZGNhMDcwOCIsImMiOjEwfQ%3D%3D)
 
 ![Executive Overview](images/00-executive-overview.png)
 
